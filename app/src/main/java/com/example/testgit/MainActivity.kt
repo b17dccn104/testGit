@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
+    private var n = 0
     private var d = 2
     private var p = ""
     private var a = 0
